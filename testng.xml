@@ -4,6 +4,8 @@
   <test name="Test">
     <classes>
       <class name="com.maven.MavenDemo"/>
+            <class name="com.maven.DemoTest"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
