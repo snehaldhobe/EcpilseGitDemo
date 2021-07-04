@@ -9,5 +9,9 @@ public class DemoTest {
 			{
 				System.out.println("hii");
 			}
+	public void test2()
+	{
+		System.out.println("hii");
+	}
 
 }
